@@ -1,24 +1,10 @@
-# README
+This is a tutorial on Rails Active Record and associations.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It was completed as part of The Odin Project.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you are interested in playing around with it:
+Fork this repo
+Clone your repo
+Jump into that directory
+Run 'bundle install' to get the gems needed
+Run 'rails console' and have fun!
